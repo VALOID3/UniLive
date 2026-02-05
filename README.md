@@ -26,6 +26,7 @@ Se desarrolló un prototipo de alta fidelidad enfocado en la usabilidad móvil (
 | ![Onboarding](./Prototyes/Inicio-final.png) <br> ![Login](./Prototyes/Login-lleno.png) | ![Home](./Prototyes/Eventos.png) <br> ![MisAfis](./Prototyes/Mis_Afis.png) | ![Perfil](./Prototyes/Perfil.png) <br> ![Notificaciones](./Prototyes/Notificaciones.png) |
 
 > **🎨 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/WisecVi04g9VVX2E2idbyX/UniLive?page-id=0%3A1&node-id=1-3&p=f&viewport=322%2C306%2C0.32&t=0o4ded1qtpiywYGJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A562)**
+> **🎨 [Video Muestra del Prototipo](https://drive.google.com/file/d/1auuNPvp_uxhnET5PLLI_rBYTE-98JmoN/view?usp=sharing)**
 
 ## 📢 Identidad Corporativa y Branding
 
@@ -60,6 +61,3 @@ El desarrollo se fundamenta en un análisis de viabilidad exhaustivo:
 * **Erick Franco Mendez Estrada** - *Colaborador*
 * **Stibaly Jaretzi Rios Sifuentes** - *Colaborador*
 * **Abraham Alexander Hinojosa Gonzales** - *Colaborador*
-
----
-*Proyecto Integrador de Aprendizaje (PIA) - Proyección Personal y Profesional - LMAD 2024*
