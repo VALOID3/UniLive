@@ -6,6 +6,7 @@
 **UniLive** es una propuesta de ecosistema digital diseñada para resolver la fragmentación de información en las *Actividades de Formación Integral (AFIs)* de la UANL. La plataforma centraliza la difusión, inscripción y validación de eventos académicos, culturales y deportivos en una sola aplicación intuitiva.
 
 ![Logo Principal](./Assets/UNILIVE.png)
+
 ## 💡 La Problemática
 Actualmente, los estudiantes enfrentan dificultades para enterarse de las AFIs a tiempo debido a la dispersión de la información en múltiples canales no oficiales. Esto resulta en créditos faltantes y baja participación.
 
@@ -20,9 +21,9 @@ UniLive actúa como el **puente oficial** entre la administración universitaria
 Se desarrolló un prototipo de alta fidelidad enfocado en la usabilidad móvil (**Mobile First**), respetando la identidad institucional pero modernizando la interfaz.
 
 ### Galería del Prototipo
-| Onboarding & Login | Feed de Eventos & mis AFIS | Perfil & Notificaciones |
+| Onboarding & Login | Feed de Eventos & Mis AFIs | Perfil & Notificaciones |
 | :---: | :---: | :---: |
-| ![Onboarding](./Prototyes/Inicio-final.png) ![Login](./Prototyes/Login-lleno.png) | ![Home](./Prototyes/Eventos.png) ![MisAfis](./Prototyes/Mis_Afis.png) | ![Perfil](./Prototyes/Perfil.png) ![Notificacines](./Prototyes/Notificaciones.png) |
+| ![Onboarding](./Prototyes/Inicio-final.png) <br> ![Login](./Prototyes/Login-lleno.png) | ![Home](./Prototyes/Eventos.png) <br> ![MisAfis](./Prototyes/Mis_Afis.png) | ![Perfil](./Prototyes/Perfil.png) <br> ![Notificaciones](./Prototyes/Notificaciones.png) |
 
 > **🎨 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/WisecVi04g9VVX2E2idbyX/UniLive?page-id=0%3A1&node-id=1-3&p=f&viewport=322%2C306%2C0.32&t=0o4ded1qtpiywYGJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A562)**
 
@@ -40,7 +41,6 @@ El proyecto incluyó el desarrollo completo de la imagen de marca, aplicando psi
 | Flyer Promocional | Post de Instagram | Spot de Video |
 | :---: | :---: | :---: |
 | ![Flyer](./Assets/Flayer.png) | ![Post](./Assets/Post.gif) | ![Video](./Assets/Video.gif) |
-
 ## 📊 Documentación de Negocio
 
 El desarrollo se fundamenta en un análisis de viabilidad exhaustivo:
@@ -55,11 +55,11 @@ El desarrollo se fundamenta en un análisis de viabilidad exhaustivo:
 
 ## 👥 Créditos
 **Equipo 5 - Grupo 051**
-* **Jose Armando Hernandez Santander** - *Diseño de Producto & Estrategia de Marca*
-* **Alma Daniela Garza Palomino** - *Colaboradores*
-* **Erick Franco Mendez Estrada** - *Colaboradores*
-* **Stibaly Jaretzi Rios Sifuentes** - *Colaboradores*
-* **Abraham Alexander Hinojosa Gonzales** - *Colaboradores*
+* **[Jose Armando Hernandez Santander]** - *Diseño de Producto & Estrategia de Marca*
+* **Alma Daniela Garza Palomino** - *Colaborador*
+* **Erick Franco Mendez Estrada** - *Colaborador*
+* **Stibaly Jaretzi Rios Sifuentes** - *Colaborador*
+* **Abraham Alexander Hinojosa Gonzales** - *Colaborador*
 
 ---
 *Proyecto Integrador de Aprendizaje (PIA) - Proyección Personal y Profesional - LMAD 2024*
