@@ -31,7 +31,7 @@ Se desarrolló un prototipo de alta fidelidad enfocado en la usabilidad móvil (
 El proyecto incluyó el desarrollo completo de la imagen de marca, aplicando psicología del color para transmitir **Energía (Naranja)**, **Confianza (Azul)** y **Pasión Universitaria**.
 
 ### 👕 Mercancía Oficial (Merch)
-| Playeras | Termos y Gorras | Accesorios |
+| Playeras | Termos y Bolsa | Accesorios |
 | :---: | :---: | :---: |
 | ![Playera](./Assets/1.png) | ![Termo](./Assets/2.png) | ![Gorra](./Assets/3.png) |
 | ![Variante](./Assets/4.png) | ![Detalle](./Assets/5.png) | . |
