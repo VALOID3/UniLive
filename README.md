@@ -41,8 +41,8 @@ El proyecto incluyó el desarrollo completo de la imagen de marca, aplicando psi
 ![Merch](./Assets/4.png)
 ![Merch](./Assets/5.png)
 
-![Estrategia Redes](./Assets/#UniLiveUANL.gif)
-![Estrategia Redes](./Assets/¡Nunca_mas_pierdas_un_Afi.png)
+![Estrategia Redes](./Assets/flayer.gif)
+![Estrategia Redes](./Assets/Post.png)
 ![Estrategia Redes](./Assets/Video.gif)
 
 ## 📊 Documentación de Negocio
