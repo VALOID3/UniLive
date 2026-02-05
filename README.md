@@ -30,19 +30,16 @@ Se desarrolló un prototipo de alta fidelidad enfocado en la usabilidad móvil (
 
 El proyecto incluyó el desarrollo completo de la imagen de marca, aplicando psicología del color para transmitir **Energía (Naranja)**, **Confianza (Azul)** y **Pasión Universitaria**.
 
-### Elementos de Marca Desarrollados:
-- **Logotipo:** Isotipo minimalista adaptable a medios digitales e impresos.
-- **Mercancía (Merch):** Diseño de mockups para playeras, gorras y termos institucionales.
-- **Estrategia en Redes:** Plan de contenidos para Instagram y Facebook para el lanzamiento.
+### 👕 Mercancía Oficial (Merch)
+| Playeras | Termos y Gorras | Accesorios |
+| :---: | :---: | :---: |
+| ![Playera](./Assets/1.png) | ![Termo](./Assets/2.png) | ![Gorra](./Assets/3.png) |
+| ![Variante](./Assets/4.png) | ![Detalle](./Assets/5.png) | . |
 
-![Merch](./Assets/1.png)
-![Merch](./Assets/2.png)
-![Merch](./Assets/3.png)
-![Merch](./Assets/4.png)
-![Merch](./Assets/5.png)
-![EstrategiaRedes](./Assets/flayer.gif)
-![EstrategiaRedes](./Assets/Post.png)
-![EstrategiaRedes](./Assets/Video.gif)
+### 📱 Estrategia de Redes Sociales
+| Flyer Promocional | Post de Instagram | Spot de Video |
+| :---: | :---: | :---: |
+| ![Flyer](./Assets/flayer.gif) | ![Post](./Assets/Post.png) | ![Video](./Assets/Video.gif) |
 
 ## 📊 Documentación de Negocio
 
