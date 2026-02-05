@@ -39,7 +39,7 @@ El proyecto incluyó el desarrollo completo de la imagen de marca, aplicando psi
 ### 📱 Estrategia de Redes Sociales
 | Flyer Promocional | Post de Instagram | Spot de Video |
 | :---: | :---: | :---: |
-| ![Flyer](./Assets/flayer.gif) | ![Post](./Assets/Post.png) | ![Video](./Assets/Video.gif) |
+| ![Flyer](./Assets/Flayer.png) | ![Post](./Assets/Post.gif) | ![Video](./Assets/Video.gif) |
 
 ## 📊 Documentación de Negocio
 
