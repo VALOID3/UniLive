@@ -20,9 +20,9 @@ UniLive actúa como el **puente oficial** entre la administración universitaria
 Se desarrolló un prototipo de alta fidelidad enfocado en la usabilidad móvil (**Mobile First**), respetando la identidad institucional pero modernizando la interfaz.
 
 ### Galería del Prototipo
-| Login & Onboarding | Feed de Eventos & mis AFIS | Perfil & Notificaciones |
+| Onboarding & Login | Feed de Eventos & mis AFIS | Perfil & Notificaciones |
 | :---: | :---: | :---: |
-| ![Login](./Prototyes/Login-lleno.png) ![Onboarding](./Prototyes/Inicio-final.png) | ![Home](./Prototyes/Eventos.png) ![MisAfis](./Prototyes/Mis_Afis.png) | ![Perfil](./Prototyes/Perfil.png) ![Notificacines](./Prototyes/Notificaciones.png) |
+| ![Onboarding](./Prototyes/Inicio-final.png) ![Login](./Prototyes/Login-lleno.png) | ![Home](./Prototyes/Eventos.png) ![MisAfis](./Prototyes/Mis_Afis.png) | ![Perfil](./Prototyes/Perfil.png) ![Notificacines](./Prototyes/Notificaciones.png) |
 
 > **🎨 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/WisecVi04g9VVX2E2idbyX/UniLive?page-id=0%3A1&node-id=1-3&p=f&viewport=322%2C306%2C0.32&t=0o4ded1qtpiywYGJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A562)**
 
