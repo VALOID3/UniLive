@@ -5,7 +5,7 @@
 
 **UniLive** es una propuesta de ecosistema digital diseñada para resolver la fragmentación de información en las *Actividades de Formación Integral (AFIs)* de la UANL. La plataforma centraliza la difusión, inscripción y validación de eventos académicos, culturales y deportivos en una sola aplicación intuitiva.
 
-![Logo Principal](./assets/UNILIVE.png)
+![Logo Principal](./Assets/UNILIVE.png)
 ## 💡 La Problemática
 Actualmente, los estudiantes enfrentan dificultades para enterarse de las AFIs a tiempo debido a la dispersión de la información en múltiples canales no oficiales. Esto resulta en créditos faltantes y baja participación.
 
@@ -22,7 +22,7 @@ Se desarrolló un prototipo de alta fidelidad enfocado en la usabilidad móvil (
 ### Galería del Prototipo
 | Login & Onboarding | Feed de Eventos & mis AFIS | Perfil & Notificaciones |
 | :---: | :---: | :---: |
-| ![Login](./Prototyes/login.-lleno.png) ![Onboarding](./Prototyes/Inicio-final) | ![Home](./prototyes/Eventos.png) ![MisAfis](./prototyes/Mis_Afis.png) | ![Profile](./prototyes/Perfil.png) ![Home](./prototyes/Notificaciones.png) |
+| ![Login](./Prototyes/Login-lleno.png) ![Onboarding](./Prototyes/Inicio-final.png) | ![Home](./prototyes/Eventos.png) ![MisAfis](./prototyes/Mis_Afis.png) | ![Profile](./prototyes/Perfil.png) ![Home](./prototyes/Notificaciones.png) |
 
 > **🎨 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/WisecVi04g9VVX2E2idbyX/UniLive?page-id=0%3A1&node-id=1-3&p=f&viewport=322%2C306%2C0.32&t=0o4ded1qtpiywYGJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A562)**
 
@@ -36,14 +36,14 @@ El proyecto incluyó el desarrollo completo de la imagen de marca, aplicando psi
 - **Estrategia en Redes:** Plan de contenidos para Instagram y Facebook para el lanzamiento.
 
 ![Merch](./Assets/1.png)
-![Merch Collage](./Assets/2.png)
+![Merch](./Assets/2.png)
 ![Merch](./Assets/3.png)
 ![Merch](./Assets/4.png)
 ![Merch](./Assets/5.png)
 
 ![Estrategia Redes](./Assets/#UniLiveUANL.gif)
-![Estrategia Redes](./Assets/)
-![Estrategia Redes](./Assets/)
+![Estrategia Redes](./Assets/¡Nunca_mas_pierdas_un_Afi.png)
+![Estrategia Redes](./Assets/Video.gif)
 
 ## 📊 Documentación de Negocio
 
